@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/michaelalbert/RoverRuckus/FtcRobotController/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/michaelalbert/RoverRuckus/FtcRobotController/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/michaelalbert/RoverRuckus/FtcRobotController/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_shape.xml",
+        "source": "/Users/michaelalbert/.android/build-cache/7928967bc7864a9702dc6fb9d3e73ef3633ad4d9/output/res/drawable-hdpi-v4/button_shape.xml"
+    }
+]

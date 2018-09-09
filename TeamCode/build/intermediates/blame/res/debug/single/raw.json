@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/michaelalbert/RoverRuckus/TeamCode/build/intermediates/res/merged/debug/raw/color_fragment_shader.glsl",
+        "source": "/Users/michaelalbert/.android/build-cache/c31ef85fc813d22716df7fd9f48f6d5f53e96ab8/output/res/raw/color_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/michaelalbert/RoverRuckus/TeamCode/build/intermediates/res/merged/debug/raw/simple_vertex_shader.glsl",
+        "source": "/Users/michaelalbert/.android/build-cache/c31ef85fc813d22716df7fd9f48f6d5f53e96ab8/output/res/raw/simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/michaelalbert/RoverRuckus/TeamCode/build/intermediates/res/merged/debug/raw/texture_vertex_shader.glsl",
+        "source": "/Users/michaelalbert/.android/build-cache/c31ef85fc813d22716df7fd9f48f6d5f53e96ab8/output/res/raw/texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/michaelalbert/RoverRuckus/TeamCode/build/intermediates/res/merged/debug/raw/errormessage.wav",
+        "source": "/Users/michaelalbert/.android/build-cache/7928967bc7864a9702dc6fb9d3e73ef3633ad4d9/output/res/raw/errormessage.wav"
+    },
+    {
+        "merged": "/Users/michaelalbert/RoverRuckus/TeamCode/build/intermediates/res/merged/debug/raw/warningmessage.wav",
+        "source": "/Users/michaelalbert/.android/build-cache/7928967bc7864a9702dc6fb9d3e73ef3633ad4d9/output/res/raw/warningmessage.wav"
+    },
+    {
+        "merged": "/Users/michaelalbert/RoverRuckus/TeamCode/build/intermediates/res/merged/debug/raw/chimeconnect.wav",
+        "source": "/Users/michaelalbert/.android/build-cache/7928967bc7864a9702dc6fb9d3e73ef3633ad4d9/output/res/raw/chimeconnect.wav"
+    },
+    {
+        "merged": "/Users/michaelalbert/RoverRuckus/TeamCode/build/intermediates/res/merged/debug/raw/cube_mesh_fragment_shader.glsl",
+        "source": "/Users/michaelalbert/.android/build-cache/c31ef85fc813d22716df7fd9f48f6d5f53e96ab8/output/res/raw/cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/michaelalbert/RoverRuckus/TeamCode/build/intermediates/res/merged/debug/raw/chimedisconnect.wav",
+        "source": "/Users/michaelalbert/.android/build-cache/7928967bc7864a9702dc6fb9d3e73ef3633ad4d9/output/res/raw/chimedisconnect.wav"
+    },
+    {
+        "merged": "/Users/michaelalbert/RoverRuckus/TeamCode/build/intermediates/res/merged/debug/raw/nxtstartupsound.wav",
+        "source": "/Users/michaelalbert/.android/build-cache/7928967bc7864a9702dc6fb9d3e73ef3633ad4d9/output/res/raw/nxtstartupsound.wav"
+    },
+    {
+        "merged": "/Users/michaelalbert/RoverRuckus/TeamCode/build/intermediates/res/merged/debug/raw/texture_fragment_shader.glsl",
+        "source": "/Users/michaelalbert/.android/build-cache/c31ef85fc813d22716df7fd9f48f6d5f53e96ab8/output/res/raw/texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/michaelalbert/RoverRuckus/TeamCode/build/intermediates/res/merged/debug/raw/cube_mesh_vertex_shader.glsl",
+        "source": "/Users/michaelalbert/.android/build-cache/c31ef85fc813d22716df7fd9f48f6d5f53e96ab8/output/res/raw/cube_mesh_vertex_shader.glsl"
+    }
+]
