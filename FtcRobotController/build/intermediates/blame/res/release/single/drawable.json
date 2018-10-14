@@ -1,22 +1,22 @@
 [
     {
-        "merged": "/Users/michaelalbert/RoverRuckus/FtcRobotController/build/intermediates/res/merged/release/drawable/black_border.xml",
-        "source": "/Users/michaelalbert/.android/build-cache/288bd04bd99289e6d4195fbd4da32c6dc17adb68/output/res/drawable/black_border.xml"
+        "merged": "/Users/ryertriezenberg/Documents/GitHub/RoverRuckus/FtcRobotController/build/intermediates/res/merged/release/drawable/feedback_shape_orange.xml",
+        "source": "/Users/ryertriezenberg/.android/build-cache/18bcf882014940beedade81344b88df7d35c60f7/output/res/drawable/feedback_shape_orange.xml"
     },
     {
-        "merged": "/Users/michaelalbert/RoverRuckus/FtcRobotController/build/intermediates/res/merged/release/drawable/icon_robotcontroller.png",
-        "source": "/Users/michaelalbert/.android/build-cache/2766fe34b6cd73ccc840d305d47e14eee3712ed4/output/res/drawable/icon_robotcontroller.png"
+        "merged": "/Users/ryertriezenberg/Documents/GitHub/RoverRuckus/FtcRobotController/build/intermediates/res/merged/release/drawable/button_shape.xml",
+        "source": "/Users/ryertriezenberg/.android/build-cache/4baa7de5fe7dd36effe3bb5db91738ce9c18422d/output/res/drawable/button_shape.xml"
     },
     {
-        "merged": "/Users/michaelalbert/RoverRuckus/FtcRobotController/build/intermediates/res/merged/release/drawable/icon_menu.png",
-        "source": "/Users/michaelalbert/.android/build-cache/2766fe34b6cd73ccc840d305d47e14eee3712ed4/output/res/drawable/icon_menu.png"
+        "merged": "/Users/ryertriezenberg/Documents/GitHub/RoverRuckus/FtcRobotController/build/intermediates/res/merged/release/drawable/black_border.xml",
+        "source": "/Users/ryertriezenberg/.android/build-cache/b0e779a501589587daf6a95118e34ae0c8d4f05a/output/res/drawable/black_border.xml"
     },
     {
-        "merged": "/Users/michaelalbert/RoverRuckus/FtcRobotController/build/intermediates/res/merged/release/drawable/feedback_shape_orange.xml",
-        "source": "/Users/michaelalbert/.android/build-cache/c31ef85fc813d22716df7fd9f48f6d5f53e96ab8/output/res/drawable/feedback_shape_orange.xml"
+        "merged": "/Users/ryertriezenberg/Documents/GitHub/RoverRuckus/FtcRobotController/build/intermediates/res/merged/release/drawable/icon_robotcontroller.png",
+        "source": "/Users/ryertriezenberg/.android/build-cache/9e27c1161c0f7fd87dcc56710ec3b9e5123197bc/output/res/drawable/icon_robotcontroller.png"
     },
     {
-        "merged": "/Users/michaelalbert/RoverRuckus/FtcRobotController/build/intermediates/res/merged/release/drawable/button_shape.xml",
-        "source": "/Users/michaelalbert/.android/build-cache/7928967bc7864a9702dc6fb9d3e73ef3633ad4d9/output/res/drawable/button_shape.xml"
+        "merged": "/Users/ryertriezenberg/Documents/GitHub/RoverRuckus/FtcRobotController/build/intermediates/res/merged/release/drawable/icon_menu.png",
+        "source": "/Users/ryertriezenberg/.android/build-cache/9e27c1161c0f7fd87dcc56710ec3b9e5123197bc/output/res/drawable/icon_menu.png"
     }
 ]

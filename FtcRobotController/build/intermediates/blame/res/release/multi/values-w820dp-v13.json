@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/michaelalbert/RoverRuckus/FtcRobotController/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "outputFile": "/Users/ryertriezenberg/Documents/GitHub/RoverRuckus/FtcRobotController/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/Users/michaelalbert/RoverRuckus/FtcRobotController/src/main/res/values-w820dp/dimens.xml",
+                    "file": "/Users/ryertriezenberg/Documents/GitHub/RoverRuckus/FtcRobotController/src/main/res/values-w820dp/dimens.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,

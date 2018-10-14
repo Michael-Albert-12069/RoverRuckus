@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/Users/michaelalbert/RoverRuckus/FtcRobotController/build/intermediates/res/merged/debug/menu/main_menu.xml",
-        "source": "/Users/michaelalbert/.android/build-cache/2766fe34b6cd73ccc840d305d47e14eee3712ed4/output/res/menu/main_menu.xml"
+        "merged": "/Users/ryertriezenberg/Documents/GitHub/RoverRuckus/FtcRobotController/build/intermediates/res/merged/debug/menu/ftc_robot_controller.xml",
+        "source": "/Users/ryertriezenberg/Documents/GitHub/RoverRuckus/FtcRobotController/src/main/res/menu/ftc_robot_controller.xml"
     },
     {
-        "merged": "/Users/michaelalbert/RoverRuckus/FtcRobotController/build/intermediates/res/merged/debug/menu/ftc_robot_controller.xml",
-        "source": "/Users/michaelalbert/RoverRuckus/FtcRobotController/src/main/res/menu/ftc_robot_controller.xml"
+        "merged": "/Users/ryertriezenberg/Documents/GitHub/RoverRuckus/FtcRobotController/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/ryertriezenberg/.android/build-cache/9e27c1161c0f7fd87dcc56710ec3b9e5123197bc/output/res/menu/main_menu.xml"
     },
     {
-        "merged": "/Users/michaelalbert/RoverRuckus/FtcRobotController/build/intermediates/res/merged/debug/menu/menu_server.xml",
-        "source": "/Users/michaelalbert/.android/build-cache/288bd04bd99289e6d4195fbd4da32c6dc17adb68/output/res/menu/menu_server.xml"
+        "merged": "/Users/ryertriezenberg/Documents/GitHub/RoverRuckus/FtcRobotController/build/intermediates/res/merged/debug/menu/menu_server.xml",
+        "source": "/Users/ryertriezenberg/.android/build-cache/b0e779a501589587daf6a95118e34ae0c8d4f05a/output/res/menu/menu_server.xml"
     }
 ]

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: FtcCommon-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/4baa7de5fe7dd36effe3bb5db91738ce9c18422d/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/4baa7de5fe7dd36effe3bb5db91738ce9c18422d/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/FtcCommon-release-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
