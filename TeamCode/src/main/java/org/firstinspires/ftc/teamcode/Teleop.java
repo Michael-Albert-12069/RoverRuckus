@@ -21,8 +21,15 @@ public class Teleop extends LinearOpMode {
 
         waitForStart();
         while ((opModeIsActive())){
-            Whatisleft.setPower(-gamepad1.left_stick_y/10);
-            Therightway.setPower(-gamepad2.right_stick_y/10);
+
+            while(gamepad1.a){
+                Whatisleft.setPower(gamepad1.left_stick_y/1);
+                Therightway.setPower(gamepad1.right_stick_y/1);
+            }
+            while(!gamepad1.a){
+                Whatisleft.setPower(gamepad1.left_stick_y/2);
+                Therightway.setPower(gamepad1.right_stick_y/2);
+            }
 
             telemetry.update();
             idle();

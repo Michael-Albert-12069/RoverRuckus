@@ -14,14 +14,14 @@ public class Autonomous extends LinearOpMode {
     @Override
     public void runOpMode() throws InterruptedException{
         Whatisleft=hardwareMap.dcMotor.get("left");
-        Therightway=hardwareMap.dcMotor.get("left");
+        Therightway=hardwareMap.dcMotor.get("right");
         Whatisleft.setDirection(DcMotor.Direction.REVERSE);
         waitForStart();
 
         double drivePower= 2;
         double ZEROSPEED=0.00;
 
-        Forward(1,1000);
+        Forward(1,5000);
 
 
     }
