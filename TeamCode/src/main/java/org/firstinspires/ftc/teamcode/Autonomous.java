@@ -18,7 +18,7 @@ public class Autonomous extends LinearOpMode {
         Whatisleft.setDirection(DcMotor.Direction.REVERSE);
         waitForStart();
 
-        double drivePower=-0.5;
+        double drivePower= 2;
         double ZEROSPEED=0.00;
 
         Forward(1,1000);
