@@ -1,0 +1,4 @@
+#Thu Nov 01 15:42:49 PDT 2018
+base.0=C\:\\Users\\speci.DESKTOP-5OH9LA0\\OneDrive\\Documents\\GitHub\\RoverRuckus\\TeamCode\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

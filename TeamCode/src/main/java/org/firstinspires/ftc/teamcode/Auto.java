@@ -8,15 +8,15 @@ import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
 @Autonomous(name = "Michael - Auto A", group = "Autonomous")
 
 public class Auto extends LinearOpMode {
-    private DcMotor Whatisleft;
-    private DcMotor Therightway;
+    private DcMotor LeftMotor;
+    private DcMotor RightMotor;
 
 
     @Override
     public void runOpMode() throws InterruptedException{
-        Whatisleft=hardwareMap.dcMotor.get("left");
-        Therightway=hardwareMap.dcMotor.get("left");
-        Whatisleft.setDirection(DcMotor.Direction.REVERSE);
+        LeftMotor=hardwareMap.dcMotor.get("left");
+        RightMotor=hardwareMap.dcMotor.get("left");
+        LeftMotor.setDirection(DcMotor.Direction.REVERSE);
         waitForStart();
 
         double drivePower=-0.5;
@@ -27,8 +27,8 @@ public class Auto extends LinearOpMode {
 
     }
     public void Forward(double power, long time)throws InterruptedException {
-        Whatisleft.setPower(power);
-        Therightway.setPower(power);
+        LeftMotor.setPower(power);
+        RightMotor.setPower(power);
     }
 
 }
